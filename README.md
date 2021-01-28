@@ -1,2 +1,2 @@
 # waball.github.io
-Whitney's personal website for BUAD 5112
+Whitney Ball's GitHub page for BUAD 5112
