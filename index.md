@@ -7,4 +7,4 @@ description: Whitney Ball's GitHub page for BUAD 5112
 
 Below you can find the links to:
 
-- [Basic Graph ASsignment](/TimeSeries/index.md)
+- [Basic Graph Assignment](/TimeSeries/index.md)
