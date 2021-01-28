@@ -1,4 +1,9 @@
-## Welcome to Whitney Ball's GitHub Website
+---
+title: Whitney Ball
+description: Whitney Ball's GitHub page for BUAD 5112
+---
+
+## Welcome to my GitHub website!
 
 You can use the [editor on GitHub](https://github.com/waball/waball.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
