@@ -3,7 +3,7 @@ title: Whitney Ball
 description: Whitney Ball's GitHub page for BUAD 5112
 ---
 
-![Picture]()
+![Picture](/pics/IMG_2305.jpg)
 
 ## Welcome to my GitHub website!
 
