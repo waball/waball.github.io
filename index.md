@@ -10,3 +10,4 @@ description: Whitney Ball's GitHub page for BUAD 5112
 Below you can find the links to:
 
 - [Basic Graph Assignment](/BasicGraphAssignment/index.md)
+- [My Sample Repository](https://github.com/waball/sample)
