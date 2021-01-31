@@ -11,5 +11,5 @@ Below you can find the links to:
 
 - [My Basic Graph Assignment](/BasicGraphAssignment/index.md)
 - [My Advanced Graph Assignment](/AdvancedGraphAssignment/index.md)
-- [My Time Series Composition Assignment](/TimeSeriesDecomposition/index.md)
+- [My Time Series Decomposition Assignment](/TimeSeriesDecomposition/index.md)
 - [My Sample Repository](https://github.com/waball/sample)
